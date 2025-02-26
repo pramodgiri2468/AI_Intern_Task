@@ -6,4 +6,4 @@ To set up the project, first, clone the repository using `git clone https://gith
 
 To run the chatbot, use `streamlit run app.py`. The chatbot provides features such as PDF text extraction, embedding-based responses, and language translation support. The project leverages **LangChain**, **Streamlit**, **Python**, and optionally the **OpenAI API**.  
 
-This project is licensed under the MIT License. Contributions and feedback are welcome! 🚀  
+

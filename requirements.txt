@@ -3,6 +3,6 @@ langchain
 faiss-cpu
 pypdf
 sentence-transformers
-googletrans==4.0.0-rc1
+translate
 openai
 python-dotenv

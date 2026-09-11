@@ -6,3 +6,6 @@ sentence-transformers
 translate
 openai
 python-dotenv
+langchain-text-splitters
+langchain-huggingface
+langchain-community

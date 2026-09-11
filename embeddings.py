@@ -1,6 +1,6 @@
 # embeddings.py
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
 
 def create_vector_store(texts):
     # Generate embeddings using a multilingual model
